@@ -12,6 +12,7 @@ Whether the text shows royalblue or crimson can be derived from the length of th
 
 STEP 0:
   Study the component below, and import the state hook.
+  
 
 STEP 1:
   Create a slice of state called 'inputValue' and its 'setInputValue' buddy.
