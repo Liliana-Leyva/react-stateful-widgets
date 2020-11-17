@@ -56,7 +56,7 @@ export default function Moods() {
   const style = {
     fontSize: '1.5em',
     marginBottom: '0.3em',
-    color: mood === happyMood ? 'royalblue' : 'crimson'
+    color: mood === happyMood ? 'royalblue' : 'crimson' //step3
   };
 
   return (
